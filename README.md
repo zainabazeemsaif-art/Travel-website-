@@ -27,13 +27,6 @@ Travel-Website/
 │   └── (Website images)
 └── README.md
 ```
- How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone YOUR_REPOSITORY_LINK
-   ```
-2. Open the project folder.
-3. Open `index.html` in your browser.
  Purpose
 This project was created as a front-end development practice project to improve my skills in HTML, CSS, and Bootstrap.
  Author
